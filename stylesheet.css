@@ -1,11 +1,20 @@
 .something {
-	font-family: 'Slabo 27px', serif;
-	font-size: 150px
-	color: blue;
+	font-family: 'Lobster', cursive;
+	color: #3CC;
 	text-align: center;
-	vertical-align: middle;
+	font-size: 100px
+}
+
+.containerdiv {
+	margin: 0px o o -50px;
+	left: 50%;
 }
 
 body {
-	background: #666
+	background: #848484
+}
+p {
+	font-family: 'Playfair Display', serif;
+	color: black;
+	text-align: center;
 }
