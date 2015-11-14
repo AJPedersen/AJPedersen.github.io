@@ -1,16 +1,21 @@
 .conajp {
-	margin: 0px o o -50px;
+	margin: 0px 0 0 -50px;
+	top: 0;
 	left: 50%;
 	border-style: solid;
 	border-color: #848484;
 	background-color: #848484;
+	height: 250px;
+
 }
 
 .ajp {
+	margin: 0px;
+	top: 0;
 	font-family: 'Lobster Two', cursive;
 	color: #3CC;
 	text-align: center;
-	font-size: 100px
+	font-size: 10em;
 }
 
 body {
