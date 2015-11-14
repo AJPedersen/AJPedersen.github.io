@@ -1,6 +1,9 @@
 .conajp {
 	margin: 0px o o -50px;
 	left: 50%;
+	border-style: solid;
+	border-color: #848484;
+	background-color: #848484
 }
 
 .ajp {
@@ -11,7 +14,7 @@
 }
 
 body {
-	background: #848484
+	background: white
 }
 
 p {

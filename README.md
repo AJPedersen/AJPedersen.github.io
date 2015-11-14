@@ -39,6 +39,7 @@ git commit -m "Initial commit"<br>
 git push<br>
 [enter]<br>
 </em>
+
 So I edited my bash_profile file with <em>touch ~/.bash_profile; open ~/.bash_profile</em> to include:
 
 <em>function acpgit() {<br>
@@ -48,5 +49,5 @@ So I edited my bash_profile file with <em>touch ~/.bash_profile; open ~/.bash_pr
 }<br>
 </em>
 
-This way all I have to type in my terminal is acpgit to execute my add, commit, and push commands. I also went ahead and added a cdajp command that allows me to type cdajp to cd straight to this repo on my local machine. These two things are very convenient. In this process I learned how to edit my bash_profiles file to customize my terminal and speed up my work, yay! I'm sure I will add to this file in the future.
+This way all I have to type in my terminal is acpgit to execute my <em>add, commit,</em> and <em>push</em> commands. I also went ahead and added a <em>cdajp</em> command that allows me to type <em>cdajp</em> to <em>cd</em> straight to this repo on my local machine. These two things are very convenient. In this process I learned how to edit my bash_profiles file to customize my terminal and speed up my work, yay! I'm sure I will add to this file in the future.
 
