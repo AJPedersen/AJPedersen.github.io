@@ -5,7 +5,7 @@ This is my personal portfolio website-a business card on the web. I created this
 
 INDEX:
 
--CNAME
+-CNAME <br>
 	*Redirects ajpedersen.github.io to alexjp.com
 
 -README.md
