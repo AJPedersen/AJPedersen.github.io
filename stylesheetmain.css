@@ -1,0 +1,33 @@
+.conajp {
+	margin: 0px o o -50px;
+	left: 50%;
+}
+
+.ajp {
+	font-family: 'Lobster Two', cursive;
+	color: #3CC;
+	text-align: center;
+	font-size: 100px
+}
+
+body {
+	background: #848484
+}
+
+p {
+	font-family: 'Playfair Display', serif;
+	color: black;
+	text-align: center;
+}
+
+a {
+	color: #3cc;
+}
+
+a:visited {
+	color: #cc3333;
+}
+
+a:hover {
+	color: white;
+}
