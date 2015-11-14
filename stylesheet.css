@@ -13,8 +13,20 @@
 body {
 	background: #848484
 }
+
 p {
 	font-family: 'Playfair Display', serif;
 	color: black;
 	text-align: center;
+}
+a {
+	color: #3cc;
+}
+
+a:visited {
+	color: red;
+}
+
+a:hover {
+	color: white;
 }
