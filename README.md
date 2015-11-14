@@ -23,5 +23,5 @@ function acpgit() {
     git push
 }
 
-This way all I have to type in my terminal is acpgit to execute my add, commit, and push commands. I also went ahead and added a cdajp command that allows me to type cdajp to cd straight to this repo on my local machine. These two things are very convenient. In this process I learned how to edit my bash_profiles file to customize my terminal and speed up my work, yay!
+This way all I have to type in my terminal is acpgit to execute my add, commit, and push commands. I also went ahead and added a cdajp command that allows me to type cdajp to cd straight to this repo on my local machine. These two things are very convenient. In this process I learned how to edit my bash_profiles file to customize my terminal and speed up my work, yay! I'm sure I will add to this file in the future.
 
