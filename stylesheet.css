@@ -1,10 +1,16 @@
 .something {
 	font-family: 'Slabo 27px', serif;
-	font-size: 50px
+	font-size: 125px
 	color: teal;
 	text-align: center;
-	margin-right: auto;
-	margin-left: auto;
-	margin-top: auto;
-	margin-bottom: auto;
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50%, -50%);
+
+}
+body {
+	background: #666
 }
