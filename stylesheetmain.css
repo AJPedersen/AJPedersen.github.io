@@ -6,6 +6,7 @@ p {
 	font-family: 'Playfair Display', serif;
 	color: black;
 	text-align: center;
+	font-size: 14px;
 }
 
 a {
@@ -40,11 +41,11 @@ a:hover {
 	font-size: 10em;
 }
 
-.btn {
+.btn1 {
   border-radius: 10px;
   transform: rotate(45deg); 
   width: 200px;
-  margin: 0px 0 0 500px;
+  margin: 0px 0 0 400px;
   font-family: 'Lobster Two', cursive;
   color: black;
   font-size: 42px;
@@ -54,9 +55,52 @@ a:hover {
   vertical-align: center;
 }
 
-.btn:hover {
+.btn1:hover {
   background: #c33;
   text-decoration: none;
 }
+
+.btn2 {
+  border-radius: 10px;
+  transform: rotate(45deg); 
+  width: 200px;
+  margin: 0px 0 0 600px;
+  font-family: 'Lobster Two', cursive;
+  color: black;
+  font-size: 42px;
+  background: #3cc;
+  text-decoration: none;
+  text-align: center;
+  vertical-align: center;
+}
+
+.btn2:hover {
+  background: #c33;
+  text-decoration: none;
+}
+
+.btn3 {
+  border-radius: 10px;
+  transform: rotate(45deg); 
+  width: 200px;
+  margin: 0px 0 0 800px;
+  font-family: 'Lobster Two', cursive;
+  color: black;
+  font-size: 42px;
+  background: #3cc;
+  text-decoration: none;
+  text-align: center;
+  vertical-align: center;
+}
+
+.btn3:hover {
+  background: #c33;
+  text-decoration: none;
+}
+
+.txt{
+	
+}
+
 
 
