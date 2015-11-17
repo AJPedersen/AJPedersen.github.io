@@ -28,89 +28,65 @@ a:hover {
 	border-style: solid;
 	border-color: #848484;
 	background-color: #848484;
-	height: 250px;
+	height: 50px;
 
 }
 
 .ajp {
-	margin: -2% 0 0 0;
-	top: 0;
+	margin: 0.5% 90% 0 5%;
+  border: solid black;
 	font-family: 'Lobster Two', cursive;
 	color: #3CC;
 	text-align: center;
-	font-size: 10em;
+	font-size: 1.5em;
 }
 
-.btn1 {
-  border-radius: 10px;
-  transform: rotate(45deg); 
-  width: 100%;
-  min-width: 50px;
-  max-width: 200px;
+.work {
   margin: 0 0 0 35%;
   font-family: 'Lobster Two', cursive;
   color: black;
-  font-size: 42px;
-  background: #3cc;
-  text-decoration: none;
+  font-size: 1em;
   text-align: center;
-  vertical-align: center;
-  clear: both;
 }
 
-.btn1:hover {
-  background: #c33;
-  text-decoration: none;
+.work:hover {
+  outline: 1px solid black;
+  outline-offset: 0px;
 }
 
-.btn2 {
-  border-radius: 10px;
-  transform: rotate(45deg); 
-  width: 100%
-  min-width: 50px;
-  max-width: 200px;
-  margin: -4% 0 0 45%;
+.about {
+  margin: 0 0 0 35%;
   font-family: 'Lobster Two', cursive;
   color: black;
-  font-size: 42px;
-  background: #3cc;
-  text-decoration: none;
+  font-size: 1em;
   text-align: center;
-  vertical-align: center;
-  clear: both;
 }
 
-.btn2:hover {
-  background: #c33;
-  text-decoration: none;
-}
-
-.btn3 {
-  border-radius: 10px;
-  transform: rotate(45deg); 
-  width: 100%;
-  min-width: 50px;
-  max-width: 200px;
-  margin: -4% 0 0 55%;
+.contact {
+  margin: 0 0 0 35%;
   font-family: 'Lobster Two', cursive;
   color: black;
-  font-size: 42px;
-  background: #3cc;
-  text-decoration: none;
+  font-size: 1em;
   text-align: center;
-  vertical-align: center;
-  clear: both;
 }
 
-.btn3:hover {
-  background: #c33;
-  text-decoration: none;
-}
-
-.txt{
-	border: none;
+.txttopl{
+  position: absolute;
+  padding: 0;
+	border: solid;
   margin: 8% 50% 0 0;
 }
 
+.txttopmid{
+  position: absolute;
+  padding: 0;
+  border: solid;
+  margin: 8% 0 0 50%;
+}
 
-
+.txttopr{
+  position: absolute;
+  padding: 0;
+  border: solid;
+  margin: 8% 0 0 70%;
+}
