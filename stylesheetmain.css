@@ -33,7 +33,7 @@ a:hover {
 }
 
 .ajp {
-	margin: 0px;
+	margin: -2% 0 0 0;
 	top: 0;
 	font-family: 'Lobster Two', cursive;
 	color: #3CC;
@@ -44,8 +44,10 @@ a:hover {
 .btn1 {
   border-radius: 10px;
   transform: rotate(45deg); 
-  width: 200px;
-  margin: 0px 0 0 400px;
+  width: 100%;
+  min-width: 50px;
+  max-width: 200px;
+  margin: 0 0 0 35%;
   font-family: 'Lobster Two', cursive;
   color: black;
   font-size: 42px;
@@ -53,6 +55,7 @@ a:hover {
   text-decoration: none;
   text-align: center;
   vertical-align: center;
+  clear: both;
 }
 
 .btn1:hover {
@@ -63,8 +66,10 @@ a:hover {
 .btn2 {
   border-radius: 10px;
   transform: rotate(45deg); 
-  width: 200px;
-  margin: 0px 0 0 600px;
+  width: 100%
+  min-width: 50px;
+  max-width: 200px;
+  margin: -4% 0 0 45%;
   font-family: 'Lobster Two', cursive;
   color: black;
   font-size: 42px;
@@ -72,6 +77,7 @@ a:hover {
   text-decoration: none;
   text-align: center;
   vertical-align: center;
+  clear: both;
 }
 
 .btn2:hover {
@@ -82,8 +88,10 @@ a:hover {
 .btn3 {
   border-radius: 10px;
   transform: rotate(45deg); 
-  width: 200px;
-  margin: 0px 0 0 800px;
+  width: 100%;
+  min-width: 50px;
+  max-width: 200px;
+  margin: -4% 0 0 55%;
   font-family: 'Lobster Two', cursive;
   color: black;
   font-size: 42px;
@@ -91,6 +99,7 @@ a:hover {
   text-decoration: none;
   text-align: center;
   vertical-align: center;
+  clear: both;
 }
 
 .btn3:hover {
@@ -99,7 +108,8 @@ a:hover {
 }
 
 .txt{
-	
+	border: none;
+  margin: 8% 50% 0 0;
 }
 
 
