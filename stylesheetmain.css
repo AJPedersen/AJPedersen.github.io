@@ -11,6 +11,7 @@ p {
 
 a {
 	color: #3cc;
+  text-decoration: none;
 }
 
 a:visited {
@@ -42,7 +43,9 @@ a:hover {
 }
 
 .work {
-  margin: 0 0 0 35%;
+  position: absolute;
+  border: solid;
+  margin: 0 0 0 80%;
   font-family: 'Lobster Two', cursive;
   color: black;
   font-size: 1em;
@@ -50,13 +53,13 @@ a:hover {
 }
 
 .work:hover {
-  outline: 1px solid black;
-  outline-offset: 0px;
+  color: black;
+ 
 }
 
 .about {
   margin: 0 0 0 35%;
-  font-family: 'Lobster Two', cursive;
+  font-family: 'Lobster Two', cursive;  
   color: black;
   font-size: 1em;
   text-align: center;
