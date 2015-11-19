@@ -49,14 +49,18 @@ a:hover {
   color: black;
 }
 
-.ajp {
-  position: absolute;
-	margin: 0.5% 90% 0 5%;
+home {
+   position: absolute;
+  margin: 0.5% 90% 0 5%;
   border: solid black;
-	font-family: 'Lobster Two', cursive;
-	color: #3CC;
-	text-align: center;
-	font-size: 1.5em;
+  font-family: 'Lobster Two', cursive;
+  color: #3CC;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.ajp {
+ 
 }
 
 .work {
