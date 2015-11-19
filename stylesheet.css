@@ -1,14 +1,22 @@
-.something {
-	font-family: 'Lobster', cursive;
-	color: #3CC;
-	text-align: center;
-	font-size: 100px
-}
-
-.containerdiv {
+.divtop {
 	margin: 0px o o -50px;
 	left: 50%;
 }
+
+.something {
+	font-family: 'Lobster Two', cursive;
+	color: #3CC;
+	text-align: center;
+	font-size: 7.5em;
+	text-decoration: none;
+	animation: pulse 1s ease infinite;
+}
+
+.something:hover {
+	transform: scale(1.1);
+}
+
+
 
 body {
 	background: #848484
