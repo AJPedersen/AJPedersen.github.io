@@ -13,7 +13,7 @@
 }
 
 .something:hover {
-	transform: scale(1.2);
+	transform: scale(0.9);
 }
 
 
@@ -33,9 +33,16 @@ a {
 }
 
 a:visited {
-	color: white;
+	color: #3cc;
 }
 
 a:hover {
-	color: #c33;
+	color: #3cc;
+}
+
+.haha {
+	width: 100%;
+	border: solid red;
+	display: block;
+	margin: 1000% 0 auto;
 }
