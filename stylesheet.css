@@ -1,3 +1,7 @@
+/* {
+   border: 1px solid red !important;
+} */
+
 .divtop {
 	margin: 0px o o -50px;
 	left: 50%;
@@ -27,6 +31,8 @@ p {
 	color: black;
 	text-align: center;
 }
+
+
 a {
 	color: #3cc;
 	text-decoration: none;
@@ -40,8 +46,82 @@ a:hover {
 	color: #3cc;
 }
 
+/* .haha {
+	position: relative;
+	max-width: 800px;
+    height: 700px;
+    margin: 5em auto .5em auto;
+} */
+
 .haha {
-	width: 100%;
-	display: block;
-	margin: 1000% 0 auto;
+  position: relative;
+  max-width: 800px;
+  height: 700px;
+  margin: 100% auto 0 auto;
 }
+.haha figure {
+  margin: 0 auto;
+  max-width: 800px;
+  height: 700px;
+  background: #000;
+  position: absolute;
+}
+.haha img {
+  box-shadow: 0 0 2px #666;
+}
+
+.haha figure {
+  opacity:0;
+}
+figure:nth-child(1) {
+  animation: xfade 66s 62s infinite;
+}
+figure:nth-child(2) {
+  animation: xfade 66s 56s infinite;
+}
+figure:nth-child(3) {
+  animation: xfade 66s 50s infinite;
+}
+figure:nth-child(4) {
+  animation: xfade 66s 42s infinite;
+}
+figure:nth-child(5) {
+  animation: xfade 66s 36s infinite;
+}
+figure:nth-child(6) {
+  animation: xfade 66s 30s infinite;
+}
+figure:nth-child(7) {
+  animation: xfade 66s 24s infinite;
+}
+figure:nth-child(8) {
+  animation: xfade 66s 18s infinite;
+}
+figure:nth-child(9) {
+  animation: xfade 66s 12s infinite;
+}
+figure:nth-child(10) {
+  animation: xfade 66s 6s infinite;
+}
+figure:nth-child(11) {
+  animation: xfade 66s 0s infinite;
+}
+
+@keyframes xfade{
+  0%{
+    opacity: 1;
+  }
+  10.5% {
+    opacity: 1;
+  }
+  12.5%{
+    opacity: 0;
+  }
+  98% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
