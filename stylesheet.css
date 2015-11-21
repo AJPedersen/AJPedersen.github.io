@@ -55,14 +55,14 @@ a:hover {
 
 .haha {
   position: relative;
-  max-width: 800px;
-  height: 700px;
+  max-width: 500px;
+  height: 500px;
   margin: 100% auto 0 auto;
 }
 .haha figure {
   margin: 0 auto;
-  max-width: 800px;
-  height: 700px;
+  max-width: 500px;
+  height: 500px;
   background: #000;
   position: absolute;
 }
