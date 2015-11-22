@@ -1,4 +1,4 @@
-/* * {
+  /* {
    border: 1px solid red !important;
 } */
 
@@ -77,54 +77,9 @@ a:hover {
   margin-right: -4px;
 }
 
-
-
-
-.worktext {
-  position: absolute;
-  border: solid;
-  margin: 50% 0 0 0;
-  font-family: 'Lobster Two', cursive;
-  color: black;
-  font-size: 1em;
-  text-align: center;
-}
-
-.abouttext {
-  position: absolute;
-  margin: 100% 0 0 0;
-  font-family: 'Lobster Two', cursive;  
-  color: black;
-  font-size: 1em;
-  text-align: center;
-}
-
-.contacttext {
-  position: absolute;
-  margin: 150% 0 0 0;
-  font-family: 'Lobster Two', cursive;
-  color: black;
-  font-size: 1em;
-  text-align: center;
-}
-
-.txttopl{
+.mustachio {
   position: absolute;
   padding: 0;
-	border: solid;
-  margin: 8% 50% 0 0;
-}
-
-.txttopmid{
-  position: absolute;
-  padding: 0;
-  border: solid;
-  margin: 8% 0 0 50%;
-}
-
-.txttopr{
-  position: absolute;
-  padding: 0;
-  border: solid;
-  margin: 8% 0 0 70%;
+  right: 90%;
+  margin: 0.3% 0 0 0;
 }
