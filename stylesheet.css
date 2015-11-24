@@ -2,6 +2,88 @@
    border: 1px solid red !important;
 } */
 
+body {
+  margin: 0;
+  padding: 0;
+  background: white;
+}
+
+.navbar ul {
+  list-style: none;
+  background-color: rgb(61, 160, 178);
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.navbar li {
+  font-family: 'Lobster Two', cursive;
+  font-size: 1.4em;
+  line-height: 40px;
+  height: 40px;
+  border-bottom: 1px solid #888;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #3CC;
+  padding: 0 10px;
+  display: block;
+  transition: .4s background-color;
+}
+
+.navbar a:hover {
+  background-color: black;
+}
+
+.navbar .active {
+  background-color: #fff;
+  color: #444;
+  cursor: default;
+}
+
+@media screen and (min-width: 600px;) {
+  .navbar li {
+    width: 150px;
+    border-bottom: none;
+    height: 50px
+    line-height 50px;
+    font-size: 1.4em;
+  }
+}
+
+.navbar li {
+  display: inline-block;
+  margin-right: -4px;
+}
+
+.mustachio {
+  position: absolute;
+  padding: 0;
+  right: 90%;
+  margin: 0.3% 0 0 0;
+}
+
+p {
+  font-family: 'Playfair Display', serif;
+  color: black;
+  text-align: center;
+  font-size: 14px;
+}
+
+a {
+  color: #3cc;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #3cc;
+}
+
+a:hover {
+  color: black;
+}
+
 .divtop {
 	margin: 0px o o -50px;
 	left: 50%;
@@ -22,31 +104,7 @@
 
 
 
-body {
-	background: #848484
-}
-
-p {
-	font-family: 'Playfair Display', serif;
-	color: black;
-	text-align: center;
-}
-
-
-a {
-	color: #3cc;
-	text-decoration: none;
-}
-
-a:visited {
-	color: #3cc;
-}
-
-a:hover {
-	color: #3cc;
-}
-
-.haha {
+/* .haha {
   position: relative;
   max-width: 500px;
   height: 500px;
@@ -116,5 +174,5 @@ figure:nth-child(11) {
   100% {
     opacity: 1;
   }
-}
+} */
 
