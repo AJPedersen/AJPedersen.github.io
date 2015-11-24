@@ -33,10 +33,10 @@ body {
 }
 
 .navbar a:hover {
-  background-color: black;
+  background-color: #444;
 }
 
-.navbar .active {
+.navbar a.active {
   background-color: #fff;
   color: #444;
   cursor: default;
