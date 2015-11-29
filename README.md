@@ -4,9 +4,6 @@ This is my personal portfolio website-a business card on the web. I created this
 
 INDEX:
 
--CNAME <br>
-	*Redirects ajpedersen.github.io to alexjp.com
-
 -README.md <br>
 	*This file. Used to keep track of my development of the site. I will most likely use the notes here to flesh out some blog posts in the future.
 
