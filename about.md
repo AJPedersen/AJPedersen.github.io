@@ -3,13 +3,10 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Web development, refined.
-</p>
 I am a father, husband, and developer based in Provo, UT.
 
 ## Contact
 
-[Email](mailto:alex@alexjp.com)
-[Twitter](http://twitter.com/ajp529)
-[GitHub](http://github.com/AJPedersen)
+*<a href="mailto:alex@alexjp.com" target="_blank">Email</a>.
+*<a href="https://twitter.com/ajp529" target="_blank">Twitter</a>.
+*<a href="http://github.com/AJPedersen" target="_blank">Github</a>.
