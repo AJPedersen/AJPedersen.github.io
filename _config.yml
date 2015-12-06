@@ -6,25 +6,17 @@ relative_permalinks: true
 
 # Setup
 title:               AlexJP
-tagline:             A gentleman web developer
-url:                 http://alexjp.com
-paginate:            1
-baseurl:             ""
-
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
+tagline:             'The gentleman developer'
+description:         'Web development, refined. <a href="https://twitter.com/ajp529" target="_blank">@ajp529</a>.'
+url:                 https://alexjp.com
+baseurl:             ''
+paginate:            5
 
 # About/contact
 author:
   name:              Alex Pedersen
   url:               https://twitter.com/ajp529
-  email:             ajp529@gmail.com
+  email:             Alex@AlexJP.com
 
 # Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/AJPedersen/AJPedersen.github.io
+version:             1.0.0
