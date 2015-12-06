@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-<img src="assets/round_profile.png" width="120" height="120" alt="AlexJP profile picture">
+<img src="/assets/round_profile.png" width="120" height="120" alt="AlexJP profile picture">
 
 I am a father, husband, and developer based in Provo, UT.
 
