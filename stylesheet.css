@@ -27,7 +27,7 @@ body {
 
 .navbar a {
   text-decoration: none;
-  color: #3CC;
+  color: black;
   padding: 0 10px;
   display: block;
   transition: .4s background-color;
@@ -35,7 +35,7 @@ body {
 
 .navbar a:hover {
   background-color: #444;
-  color: #3CC;
+      color: #3CC;
 }
 
 .navbar a.active {
@@ -97,12 +97,8 @@ a:hover {
 	text-align: center;
 	font-size: 7.5em;
 	text-decoration: none;
-	animation: pulse 1s ease infinite;
 }
 
-.something:hover {
-	transform: scale(0.9);
-}
 
 
 
