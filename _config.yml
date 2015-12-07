@@ -8,8 +8,8 @@ relative_permalinks: true
 title:               AlexJP
 tagline:             'The gentleman developer'
 description:         'Web development, refined. <a href="https://twitter.com/ajp529" target="_blank">@ajp529</a>.'
-url:                 https://alexjp.com
-baseurl:             https://alexjp.com
+url:                 'https://alexjp.com'
+baseurl:             
 paginate:            5
 
 # About/contact
