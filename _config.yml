@@ -9,7 +9,7 @@ title:               AlexJP
 tagline:             'The gentleman developer'
 description:         'Web development, refined. <a href="https://twitter.com/ajp529" target="_blank">@ajp529</a>.'
 url:                 'https://alexjp.com'
-baseurl:             
+baseurl:             '/blog'
 paginate:            5
 
 # About/contact
