@@ -8,7 +8,7 @@ In addition to adding a function to CD to my project folders quicker I added a f
 
 `alias ga='git add .'`  
 
-`alias gc='git commit -m' # requires you to type a commit messagee`  
+`alias gc='git commit -m' # Have to type a message`  
 
 `alias gp='git push'`
 
