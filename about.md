@@ -4,7 +4,7 @@ title: About
 ---
 <img src="/assets/round_profile.png" width="120" height="120" alt="AlexJP profile picture">
 
-I am a father, husband, and developer based in Provo, UT. I enjoy contributing to open source software, lately I have been doing this through [TranslateWiki](https://translatewiki.net/).Check me out on <a href="http://github.com/AJPedersen" target="_blank">Github</a>.
+I am a father, husband, and developer based in Provo, UT. I enjoy contributing to open source software, lately I have been doing a lot of Spanish translation through [TranslateWiki](https://translatewiki.net/)-take a look. Check me out on <a href="http://github.com/AJPedersen" target="_blank">Github</a>.
 
 ## Contact
 
