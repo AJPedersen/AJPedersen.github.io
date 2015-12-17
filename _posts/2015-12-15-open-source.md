@@ -17,7 +17,9 @@ I have been a passionate user of open source software for years. Here's some of 
 - [7-zip](http://www.7-zip.org/) for compressing/uncompressing files.
 - [Calibre](http://calibre-ebook.com/) for managing and converting ebooks.  
 
-And a lot more! I love the ethos of open source; give, contribute, help others. As I learn more web development I have been more and more interested in contributing to open source software. Since I am still learning I have been trying to contribute in whatever way I can. The main way that I have found to do this is through translating Spanish. The best medium that I have found to do this is through [TranslateWiki](https://translatewiki.net/), which is a: 
+And a lot more! I love the ethos of open source; give, contribute, help others. One of the best examples of this is the [Nighscout Project](http://www.nightscout.info/), an open source solution for monitoring continuous glucose monitors in the cloud. This project hits home since my brother in law has type one diabetes and uses a continuous glucose monitor. My in laws use the Nightscout software to monitor him remotely, allowing him to live a relatively normal life.
+
+As I learn more web development I have been more and more interested in contributing to open source software. Since I am still learning I have been trying to contribute in whatever way I can. The main way that I have found to do this is through translating Spanish. The best medium that I have found to do this is through [TranslateWiki](https://translatewiki.net/), which is a: 
 
 > Localisation platform for translation communities, language communities, and free and open source projects. It started out with localisation for MediaWiki. Later support was added for MediaWiki extensions, FreeCol and other free and open source projects.  
 
