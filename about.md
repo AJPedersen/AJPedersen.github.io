@@ -1,5 +1,6 @@
 ---
 layout: page
+<img src="/assets/round_profile.png" width="120" height="120" alt="AlexJP profile picture">
 title: About
 ---
 <img src="/assets/round_profile.png" width="120" height="120" alt="AlexJP profile picture">
