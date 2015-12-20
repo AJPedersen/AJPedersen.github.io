@@ -8,10 +8,9 @@ The other day I challenged a friend to a streak off. You see I really enjoy the 
 
 GitHub keeps track of how many days in a row that you have pushed code to a repository. When you are pushing code to a repository you are working, solving problems, creating. I love to create. Sometimes I get off track, or forget, or just get lazy and don't push code, don't create. Sometimes I need a little extra motivation.  
 
-### The Streak Off  
-
 ![much streak]({{ alexjp.com }}/assets/muchstreak.jpg)  
 
+### The Streak Off  
 
 To create some competition and motivation I challenged a few friends to a GitHub streak off. The rules are:  
 
