@@ -3,7 +3,7 @@ layout: post
 title: Changing gears
 ---
 
-**TL;DR** Just graduated, learning to code, pulishing all the things.
+**TL;DR** Just graduated, learning to code, polishing all the things.
 
 I just graduated! After school being the primary focus of my life for the past 6 years, it is quite an adjustement to be done. 
 
