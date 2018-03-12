@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Site redesign
+title: "Site redesign"
 
 Something great coming soon.
 ---------------------------
