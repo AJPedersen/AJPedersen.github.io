@@ -3,8 +3,10 @@ layout: post
 title: Site redesign
 ---
 
-Something great coming soon.
----------------------------
+###Something great coming soon.
+
+
+
 
 - Find me on [LinkedIn](https://www.linkedin.com/in/alex-pedersen-811a5715/)
 
