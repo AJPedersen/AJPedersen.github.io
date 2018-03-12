@@ -1,14 +1,16 @@
-- title: home
+- title: Home
   url: /
 
-- title: about
-  url: /me
+- title: Resume
+  url: https://docs.google.com/document/d/1BoUIpJbdXTt8ubD6JDsofxDdImpoMGV8WgHuknNMYvs/edit?usp=sharing
 
-- title: contact
+- title: Contact
   url: mailto:alex@alexjp.com
 
-- title: github
+- title: LinkedIn
+  url: https://www.linkedin.com/in/alex-pedersen-811a5715/
+
+- title: Github
   url: https://github.com/AJPedersen
 
-- title: twitter
-  url: https://twitter.com/ajp529
+
