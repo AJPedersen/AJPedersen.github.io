@@ -3,7 +3,7 @@ layout: post
 title: Site redesign
 ---
 
-###Something great coming soon.
+_Something great coming soon._
 
 
 
